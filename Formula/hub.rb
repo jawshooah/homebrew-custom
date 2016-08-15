@@ -1,8 +1,8 @@
 class Hub < Formula
   desc "Hub with PR templates"
   homepage "https://hub.github.com/"
-  url "https://github.com/jawshooah/hub.git", using: :git, revision: "d53d4b8e90e38d8d46a8c0fc96469580296bd16f"
-  version "2.2.4-13-gd53d4b8"
+  url "https://github.com/jawshooah/hub.git", using: :git, revision: "d884c3fba7c7b82ccb06c8538c90e59613a3bae2"
+  version "2.2.0-273-gd884c3f"
 
   option "without-completions", "Disable bash/zsh completions"
 
